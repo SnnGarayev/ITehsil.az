@@ -1,6 +1,6 @@
 package com.example.demo.User.Repositories;
 
-import com.example.demo.Dtos.SSelection.OutputDto.DtoOutputCopCategory;
+import com.example.demo.Dtos.OutputDto.DtoOutputCopCategory;
 import com.example.demo.User.Entities.CoparationDetails;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

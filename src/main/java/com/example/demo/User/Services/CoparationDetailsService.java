@@ -1,6 +1,6 @@
 package com.example.demo.User.Services;
 
-import com.example.demo.Dtos.SSelection.OutputDto.DtoOutputCopCategory;
+import com.example.demo.Dtos.OutputDto.DtoOutputCopCategory;
 import com.example.demo.User.Entities.CoparationDetails;
 import com.example.demo.User.Repositories.ICoparationDetailsRepo;
 import com.example.demo.User.Services.İnterfaces.ICoparationDetailsService;

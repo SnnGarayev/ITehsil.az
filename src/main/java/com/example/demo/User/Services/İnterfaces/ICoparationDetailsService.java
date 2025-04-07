@@ -1,6 +1,6 @@
 package com.example.demo.User.Services.İnterfaces;
 
-import com.example.demo.Dtos.SSelection.OutputDto.DtoOutputCopCategory;
+import com.example.demo.Dtos.OutputDto.DtoOutputCopCategory;
 import com.example.demo.User.Entities.CoparationDetails;
 
 import java.util.List;
