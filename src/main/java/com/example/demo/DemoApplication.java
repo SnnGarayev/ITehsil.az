@@ -1,19 +1,10 @@
 package com.example.demo;
 
-import com.example.demo.SpecialitySelection.Entities.*;
-import com.example.demo.SpecialitySelection.Services.impl.UniProfessionService;
-import com.example.demo.SpecialitySelection.Services.impl.UniversityService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.List;
 
 @SpringBootApplication
 @ServletComponentScan
